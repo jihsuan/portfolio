@@ -1,0 +1,969 @@
+{
+  "captured_at": "2026-10-30",
+  "source": "https://tw.mova.tech/pages/shop-mova",
+  "page_count": 190,
+  "product_url_count": 97,
+  "catalog_product_count": 96,
+  "collection_url_count": 34,
+  "asset_count": 987,
+  "asset_bytes": 214309297,
+  "video_count": 7,
+  "pages": [
+    {
+      "source_url": "https://tw.mova.tech/",
+      "local_file": "home.html",
+      "title": "MOVA 智慧家電｜掃地機器人、洗地機、寵物家電與個人護理 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/home-cleaning-articles/mova-k30-pro-mix%E5%95%86%E5%93%81%E8%B3%87%E8%A8%8A%E6%9B%B4%E6%AD%A3%E5%85%AC%E5%91%8A",
+      "local_file": "blogs/home-cleaning-articles/mova-k30-pro-mix-97953dc1.html",
+      "title": "MOVA K30 PRO MIX 商品資訊更正公告｜MOVA 台灣 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/home-cleaning-articles/how-often-to-change-cat-litter",
+      "local_file": "blogs/home-cleaning-articles/how-often-to-change-cat-litter.html",
+      "title": "貓砂多久換一次？4種貓砂更換頻率、清潔技巧與貓砂機推薦｜MOVA – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/home-cleaning-articles",
+      "local_file": "blogs/home-cleaning-articles.html",
+      "title": "居家清潔專欄 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF",
+      "local_file": "blogs/page-d34db9bc.html",
+      "title": "最新消息(舊的) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/home-cleaning-articles/floor-washer-vs-robot-vacuum",
+      "local_file": "blogs/home-cleaning-articles/floor-washer-vs-robot-vacuum.html",
+      "title": "洗地機 vs 掃地機器人哪個好？功能比較、5大情境與機型推薦｜MOVA – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/home-cleaning-articles/mova-z50-ultra-vacuum-cleaner",
+      "local_file": "blogs/home-cleaning-articles/mova-z50-ultra-vacuum-cleaner.html",
+      "title": "MOVA Z50 Ultra 履帶式掃地機器人｜2025 掃地機霸王解析 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/home-cleaning-articles/robot-vacuum-for-cat-hair-buying-guide",
+      "local_file": "blogs/home-cleaning-articles/robot-vacuum-for-cat-hair-buying-guide.html",
+      "title": "貓掉毛怎麼清？養寵物掃地機器人如何挑？6大特色帶你正確選購｜ MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/home-cleaning-articles/mova-shines-at-ces-2025-with-multiple-ground-breaking-smart-home-technologies",
+      "local_file": "blogs/home-cleaning-articles/mova-shines-at-ces-2025-with-multiple-ground-breaking-smart-home-technologies.html",
+      "title": "MOVA CES 2025｜多項突破性智慧家居科技亮相 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/home-cleaning-articles/robot-vacuum-buying-guide",
+      "local_file": "blogs/home-cleaning-articles/robot-vacuum-buying-guide.html",
+      "title": "掃地機、掃拖機推薦怎麼選？7大掃地機與掃拖機推薦選購指南｜ MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/home-cleaning-articles/mova-pet-costco",
+      "local_file": "blogs/home-cleaning-articles/mova-pet-costco.html",
+      "title": "MOVA 寵物全系列，進駐Costco好市多！ – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/home-cleaning-articles/wet-dry-vacuum-buying-guide-pros-and-cons",
+      "local_file": "blogs/home-cleaning-articles/wet-dry-vacuum-buying-guide-pros-and-cons.html",
+      "title": "洗地機好用嗎？選購建議、實測優缺點大公開 ｜ MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/home-cleaning-articles/robot-vacuum-size-guide",
+      "local_file": "blogs/home-cleaning-articles/robot-vacuum-size-guide.html",
+      "title": "掃地機尺寸怎麼預留？5點教你注意機身高度、基座預留空間｜ MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/home-cleaning-articles/wet-dry-vacuum-buying-guide",
+      "local_file": "blogs/home-cleaning-articles/wet-dry-vacuum-buying-guide.html",
+      "title": "洗地機推薦怎麼選？6大重點規格與熱門機型整理｜ MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/%E5%AF%B5%E7%89%A9%E5%AE%B6%E5%BA%AD%E6%8E%A8%E8%96%A6-%E5%89%AF%E6%9C%AC",
+      "local_file": "collections/page-8f427492.html",
+      "title": "618限時優惠 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections",
+      "local_file": "collections.html",
+      "title": "商品系列 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/%E6%AF%8D%E8%A6%AA%E7%AF%80%E7%8D%BB%E7%A6%AE-%E5%89%AF%E6%9C%AC",
+      "local_file": "collections/page-82d6f693.html",
+      "title": "MOVA 熱門清潔家電｜最多人選擇的智慧清潔方案 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/%E6%97%97%E8%89%A6%E9%A6%96%E9%81%B8-%E5%89%AF%E6%9C%AC-1",
+      "local_file": "collections/1-781df460.html",
+      "title": "寵物家庭推薦 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/%E6%97%97%E8%89%A6%E9%A6%96%E9%81%B8",
+      "local_file": "collections/page-fa26aa00.html",
+      "title": "MOVA 旗艦清潔家電推薦｜高階掃地機、洗地機 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/%E5%BB%9A%E6%88%BF%E5%AE%B6%E9%9B%BB",
+      "local_file": "collections/page-e6b60617.html",
+      "title": "廚房家電 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/%E6%97%97%E8%89%A6%E9%A6%96%E9%81%B8-%E5%89%AF%E6%9C%AC",
+      "local_file": "collections/page-421cca3c.html",
+      "title": "MOVA 入門清潔家電推薦｜掃地機、洗地機精選 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/mova-accessories",
+      "local_file": "collections/mova-accessories.html",
+      "title": "MOVA 原廠配件｜掃地機、洗地機耗材與配件 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/all",
+      "local_file": "collections/all.html",
+      "title": "商品 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/618-sale",
+      "local_file": "collections/618-sale.html",
+      "title": "MOVA 618限時優惠｜掃地機、洗地機、個人護理 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/mova-dust-mite-vacuum",
+      "local_file": "collections/mova-dust-mite-vacuum.html",
+      "title": "MOVA 除蟎機｜床墊、沙發與寢具深層清潔 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/ge-ren-hu-li",
+      "local_file": "collections/ge-ren-hu-li.html",
+      "title": "MOVA 個人護理家電｜吹風機、口腔清潔與日常護理 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/recommended-for-busy-professionals",
+      "local_file": "collections/recommended-for-busy-professionals.html",
+      "title": "上班族清潔家電推薦｜掃地機、洗地機精選｜MOVA – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/recommended-for-large-spaces",
+      "local_file": "collections/recommended-for-large-spaces.html",
+      "title": "大坪數清潔家電推薦｜高效掃地機、洗地機｜MOVA – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/pet",
+      "local_file": "collections/pet.html",
+      "title": "MOVA 寵物家電｜智慧寵物照護與居家清潔 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/mova-wet-and-dry-vacuum",
+      "local_file": "collections/mova-wet-and-dry-vacuum.html",
+      "title": "智慧自清潔乾濕洗地機 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/mova-robot-vacuums",
+      "local_file": "collections/mova-robot-vacuums.html",
+      "title": "AI導航自動掃地機機器人、拖地機器人 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/%E5%A4%A7%E5%9D%AA%E6%95%B8%E7%A9%BA%E9%96%93%E6%8E%A8%E8%96%A6",
+      "local_file": "pages/page-e7f06909.html",
+      "title": "大坪數居家清潔方案｜全屋掃拖與高效清潔｜MOVA – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/recommended-for-pet-owners",
+      "local_file": "collections/recommended-for-pet-owners.html",
+      "title": "寵物家庭清潔家電推薦｜毛髮清潔掃地機、洗地機｜MOVA – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/recommended-for-small-families",
+      "local_file": "collections/recommended-for-small-families.html",
+      "title": "小家庭清潔家電推薦｜小坪數掃地機、洗地機｜MOVA – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/%E5%A1%B5%E8%9F%8E%E6%A9%9F-%E5%AE%B6%E5%BA%AD%E7%94%9F%E6%B4%BB%E6%8F%90%E6%A1%88",
+      "local_file": "pages/page-59aef442.html",
+      "title": "塵蟎機｜家庭生活提案 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/%E5%95%86%E5%93%81%E9%A0%90%E8%B3%BC-v70%E6%8E%83%E6%8B%96%E6%A9%9F%E5%99%A8%E4%BA%BA",
+      "local_file": "pages/v70-a56f4337.html",
+      "title": "商品預購｜V70掃拖機器人 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/%E5%B0%8F%E5%AE%B6%E5%BA%AD%E6%8E%A8%E8%96%A6",
+      "local_file": "pages/page-19801afc.html",
+      "title": "小家庭智慧生活方案｜小坪數居家家電推薦｜MOVA – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/contact-us",
+      "local_file": "pages/contact-us.html",
+      "title": "MOVA 台灣 | 聯絡我們 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/%E5%BF%99%E7%A2%8C%E4%B8%8A%E7%8F%AD%E6%97%8F%E6%8E%A8%E8%96%A6",
+      "local_file": "pages/page-cd2a2957.html",
+      "title": "忙碌上班族智慧生活方案｜省時高效家電推薦｜MOVA – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/%E6%AF%9B%E5%AD%A9%E5%AE%B6%E5%BA%AD%E6%8E%A8%E8%96%A6",
+      "local_file": "pages/page-df57dc67.html",
+      "title": "毛孩家庭清潔方案｜寵物毛髮與日常髒污清潔｜MOVA – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/affiliate",
+      "local_file": "pages/affiliate.html",
+      "title": "Affiliate Dashboard – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/html-sitemap",
+      "local_file": "pages/html-sitemap.html",
+      "title": "html sitemap – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/cookie-policy",
+      "local_file": "pages/cookie-policy.html",
+      "title": "MOVA 台灣 |法規政策-Cookie 政策 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/html-sitemap-articles",
+      "local_file": "pages/html-sitemap-articles.html",
+      "title": "html sitemap articles – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/dust-mite-vacuum",
+      "local_file": "pages/dust-mite-vacuum.html",
+      "title": "MOVA T10 除蟎機 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/html-sitemap-blogs",
+      "local_file": "pages/html-sitemap-blogs.html",
+      "title": "html sitemap blogs – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/html-sitemap-pages",
+      "local_file": "pages/html-sitemap-pages.html",
+      "title": "html sitemap pages – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/html-sitemap-products",
+      "local_file": "pages/html-sitemap-products.html",
+      "title": "html sitemap products – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/mova-about-us",
+      "local_file": "pages/mova-about-us.html",
+      "title": "關於 MOVA｜智慧家電品牌理念與核心價值｜MOVA 台灣 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/kitchen",
+      "local_file": "pages/kitchen.html",
+      "title": "kitchen – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/html-sitemap-collections",
+      "local_file": "pages/html-sitemap-collections.html",
+      "title": "html sitemap collections – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/mova-contact-us",
+      "local_file": "pages/mova-contact-us.html",
+      "title": "MOVA 台灣 | 與 MOVA 聯絡 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/mova-personal-care",
+      "local_file": "pages/mova-personal-care.html",
+      "title": "MOVA 個人護理家電｜吹風機、口腔清潔與日常護理 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/mova-how-to-choose",
+      "local_file": "pages/mova-how-to-choose.html",
+      "title": "MOVA 選購指南｜掃地機器人、洗地機與智慧家電比較 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/mova-pet",
+      "local_file": "pages/mova-pet.html",
+      "title": "MOVA 寵物家電全系列｜貓砂機、餵食器與飲水機 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/mova-accessories",
+      "local_file": "pages/mova-accessories.html",
+      "title": "MOVA 配件｜原廠耗材與清潔配件選購 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/mova-tw-storelist",
+      "local_file": "pages/mova-tw-storelist.html",
+      "title": "MOVA 台灣銷售據點｜門市、實體通路與購買資訊 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/mova-tw",
+      "local_file": "pages/mova-tw.html",
+      "title": "MOVA TW 積分獎勵"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/mova-unboxing",
+      "local_file": "pages/mova-unboxing.html",
+      "title": "MOVA 開箱教學｜掃地機器人、洗地機安裝與使用指南 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/mova-wet-and-dry-vacuum",
+      "local_file": "pages/mova-wet-and-dry-vacuum.html",
+      "title": "MOVA 洗地機｜乾濕清潔與深層洗地解決方案 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/mova-robot-vacuums",
+      "local_file": "pages/mova-robot-vacuums.html",
+      "title": "MOVA 掃地機器人 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/privacy-policy",
+      "local_file": "pages/privacy-policy.html",
+      "title": "MOVA 台灣 |法規政策-隱私政策 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/return-and-refund-policy",
+      "local_file": "pages/return-and-refund-policy.html",
+      "title": "MOVA 台灣 |法規政策-退貨退款政策（僅台灣適用） – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/pet",
+      "local_file": "pages/pet.html",
+      "title": "寵物系列｜安心陪伴解決方案 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/shop-mova",
+      "local_file": "index.html",
+      "title": "MOVA 線上商城 ｜掃地機器人、洗地機、寵物家電與個人護理 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/robot_vacuum",
+      "local_file": "pages/robot_vacuum.html",
+      "title": "掃地機｜智慧清潔解決方案 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/personal-care",
+      "local_file": "pages/personal-care.html",
+      "title": "個人護理｜日常質感生活提案 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/shipping-policy",
+      "local_file": "pages/shipping-policy.html",
+      "title": "MOVA 台灣 |法規政策-運送政策 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/technology",
+      "local_file": "pages/technology.html",
+      "title": "MOVA 核心科技｜智慧家電、掃地機與洗地機清潔技術 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/terms-of-use",
+      "local_file": "pages/terms-of-use.html",
+      "title": "MOVA 台灣 |法規政策-使用條款 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/warranty-1",
+      "local_file": "pages/warranty-1.html",
+      "title": "MOVA 台灣 | 產品保固登錄 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/search-results-page",
+      "local_file": "pages/search-results-page.html",
+      "title": "Search Results – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/k20-wet-and-dry-vacuum",
+      "local_file": "products/k20-wet-and-dry-vacuum.html",
+      "title": "MOVA K20 Pro 洗地機｜6,300Pa強勁吸力・60°C熱水自清潔｜MOVA 台灣 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/lr10-prime",
+      "local_file": "products/lr10-prime.html",
+      "title": "MOVA LR10 Prime 超淨智慧大容量貓砂機(喵星艙) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/fresh-20-vision-ya-jun-ban-zhen-ce-yin-bo-dian-dong-ya-shua-zu-sca_clone_freegift",
+      "local_file": "products/fresh-20-vision-ya-jun-ban-zhen-ce-yin-bo-dian-dong-ya-shua-zu-sca_clone_freegift.html",
+      "title": "🎁 Fresh 20 Vision 牙菌斑偵測音波電動牙刷組 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/wet-dry_cleaner",
+      "local_file": "pages/wet-dry_cleaner.html",
+      "title": "洗地機｜深層潔淨解決方案 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/fresh-20-vision",
+      "local_file": "products/fresh-20-vision.html",
+      "title": "牙菌斑偵測音波電動牙刷 - Fresh 20 Vision – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/warranty-policy",
+      "local_file": "pages/warranty-policy.html",
+      "title": "MOVA 台灣 |法規政策-保固政策 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mobius-60-ai",
+      "local_file": "products/mobius-60-ai.html",
+      "title": "MOVA Mobius 60 AI 雙機械臂智換拖布掃拖機器人 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova%E9%99%A4%E5%A1%B5%E8%9F%8E%E6%A9%9F%E6%BF%BE%E5%BF%83",
+      "local_file": "products/mova-dbfe3e68.html",
+      "title": "MOVA除塵蟎機濾心 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova%E6%8E%83%E6%8B%96%E6%A9%9F%E5%99%A8%E4%BA%BA%E4%B8%89%E8%A7%92%E9%98%B2%E7%BA%8F%E7%B9%9E%E9%82%8A%E5%88%B72%E5%85%A5%E7%B5%84-%E5%89%AF%E6%9C%AC",
+      "local_file": "products/mova-2-bb6729e2.html",
+      "title": "MOVA Z50U活性碳塵袋 (3入組) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova",
+      "local_file": "products/mova.html",
+      "title": "MOVA 掃拖機器人防纏繞邊刷(2入組)(適用機種：E40) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-%E6%8E%83%E6%8B%96%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%9C%93%E7%9B%A4%E6%8B%96%E5%B8%834%E5%85%A5%E7%B5%84%E9%81%A9%E7%94%A8%E6%A9%9F%E7%A8%AEe40-p50",
+      "local_file": "products/mova--4-e40-p50-bb42c967.html",
+      "title": "MOVA 掃拖機器人圓盤拖布(4入組)(適用機種：E40、P50、Mobius) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-%E6%8E%83%E6%8B%96%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%BB%BE%E7%AD%92%E6%8B%96%E5%B8%83-%E5%89%AF%E6%9C%AC",
+      "local_file": "products/mova-fad8e4f0.html",
+      "title": "MOVA 掃拖機器人防纏繞氣旋導流雙滾刷 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-clip-pro-%E9%9B%B2%E6%84%9F%E8%80%B3%E5%A4%BE-ai-%E7%BF%BB%E8%AD%AF%E8%80%B3%E6%A9%9F",
+      "local_file": "products/mova-clip-pro---ai-b4f261d6.html",
+      "title": "MOVA Z70 Ultra Roller Complete 掃拖機器人｜36,000Pa吸力・AI滾筒活水洗地｜MOVA 台灣 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-%E6%B4%97%E5%9C%B0%E6%A9%9F%E6%BB%BE%E5%88%B7hsbaa",
+      "local_file": "products/mova--hsbaa-26658e4b.html",
+      "title": "MOVA 洗地機滾刷HSBAA – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-%E6%8E%83%E6%8B%96%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%9C%B0%E9%9D%A2%E6%B8%85%E6%BD%94%E6%B6%B2%E5%A5%97%E7%B5%84-200ml",
+      "local_file": "products/mova---200ml-f9c2a84e.html",
+      "title": "MOVA 掃拖機器人地面清潔液套組 200MLl(適用機種：E40、E50、P50) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-af10-pro-air-fryer-4l-black",
+      "local_file": "products/mova-af10-pro-air-fryer-4l-black.html",
+      "title": "MOVA AF10 Pro 氣炸鍋 4L｜360°旋風加熱、免翻面、可視窗｜MOVA 台灣 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-di-mian-qing-jie-ye-xi-di-ji-zhuan-shu-fu-ben-sca_clone_freegift",
+      "local_file": "products/mova-di-mian-qing-jie-ye-xi-di-ji-zhuan-shu-fu-ben-sca_clone_freegift.html",
+      "title": "🎁 E40清潔液自動加注組 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-f10-%E8%B2%93%E7%A0%82%E6%A9%9F%E6%96%B0%E9%A2%A8%E6%BF%BE%E7%B6%B23%E5%85%A5",
+      "local_file": "products/mova-f10--3-9aa75fc3.html",
+      "title": "MOVA F10 貓砂機新風濾網(3入) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-di-mian-qing-jie-ye-xi-di-ji-zhuan-shu-fu-ben",
+      "local_file": "products/mova-di-mian-qing-jie-ye-xi-di-ji-zhuan-shu-fu-ben.html",
+      "title": "貓砂機半年份耗材組(貓砂機-淨味液&集便袋) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-fd10-pro-qi-zha-guo-sca_clone_freegift",
+      "local_file": "products/mova-fd10-pro-qi-zha-guo-sca_clone_freegift.html",
+      "title": "🎁 MOVA FD10 Pro 氣炸鍋 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-e50-pro-ultra",
+      "local_file": "products/mova-e50-pro-ultra.html",
+      "title": "MOVA E50 Pro Ultra 掃拖機器人｜30,000Pa吸力・雙機械臂防纏繞｜MOVA 台灣 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-flip10-hairdryer-sca_clone_freegift",
+      "local_file": "products/mova-flip10-hairdryer-sca_clone_freegift.html",
+      "title": "🎁 MOVA Flip 10 百變魔術摺疊高速吹風機 (Discount) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-flip10-hairdryer",
+      "local_file": "products/mova-flip10-hairdryer.html",
+      "title": "MOVA Flip 10 高速吹風機｜300g輕巧摺疊・10萬轉高速馬達｜MOVA 台灣 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-flip-10-refurbished",
+      "local_file": "products/mova-flip-10-refurbished.html",
+      "title": "百變魔術吹風機 - MOVA Flip 10 輕巧高效 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-flip10-hairdryer-sca_clone_freegift_698c474129791",
+      "local_file": "products/mova-flip10-hairdryer-sca_clone_freegift_698c474129791.html",
+      "title": "🎁 MOVA Flip 10 百變魔術摺疊高速吹風機 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-lr10-prime-%E6%99%BA%E8%83%BD%E8%B2%93%E7%A0%82%E6%A9%9F%E9%9B%86%E4%BE%BF%E8%A2%8B2%E5%85%A5",
+      "local_file": "products/mova-lr10-prime--2-3587d4be.html",
+      "title": "MOVA LR10 PRIME 智能貓砂機集便袋(2入) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-m10-k20-filter",
+      "local_file": "products/mova-m10-k20-filter.html",
+      "title": "MOVA 洗地機濾芯HHP1(適用機種：K20、M10、M50) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-m10-k20-filter-sca_clone_freegift",
+      "local_file": "products/mova-m10-k20-filter-sca_clone_freegift.html",
+      "title": "🎁 MOVA M10 / K20 Pro 濾芯 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-p50-dust-bag",
+      "local_file": "products/mova-p50-dust-bag.html",
+      "title": "MOVA 掃拖機器人3.2L 集塵袋(3入組)(適用機種：E40、P50、Z60、MOBIUS、S70) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-p50-cleaning-kit",
+      "local_file": "products/mova-p50-cleaning-kit.html",
+      "title": "清潔套裝組(適用機種：P50、P70) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-m10-wet-and-dry-vacuum",
+      "local_file": "products/mova-m10-wet-and-dry-vacuum.html",
+      "title": "MOVA M10 防纏洗地機 – 輕巧高效清潔 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-p50-strainer",
+      "local_file": "products/mova-p50-strainer.html",
+      "title": "MOVA 掃拖機器人塵盒濾網MRHF14 (2入組)(適用機種E40、P50) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-pet-food-desiccant-bags",
+      "local_file": "products/mova-pet-food-desiccant-bags.html",
+      "title": "MOVA 餵食器-糧筒乾燥劑(6入) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-p50-ground-cleaning-solution",
+      "local_file": "products/mova-p50-ground-cleaning-solution.html",
+      "title": "MOVA 掃拖機器人地面清潔液 1L(適用機種E40、P50、Z50、Z60、MOBIUS、S70、V70) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-pet-water-fountain-filter",
+      "local_file": "products/mova-pet-water-fountain-filter.html",
+      "title": "MOVA 餵水器-過濾裝置(4組入) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-p70-pro-ultra",
+      "local_file": "products/mova-p70-pro-ultra.html",
+      "title": "MOVA P70 Pro Ultra 掃拖機器人｜30,000Pa吸力・雙機械臂防纏清潔｜MOVA 台灣 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-qi-dian-shu",
+      "local_file": "products/mova-qi-dian-shu.html",
+      "title": "MOVA 氣墊梳 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-qi-dian-shu-sca_clone_freegift",
+      "local_file": "products/mova-qi-dian-shu-sca_clone_freegift.html",
+      "title": "🎁 MOVA 氣墊梳 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-s70-roller",
+      "local_file": "products/mova-s70-roller.html",
+      "title": "MOVA S70 Roller 極薄滾筒掃拖機器人 - 28000Pa超強吸力科技 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-s70-ultra-roller",
+      "local_file": "products/mova-s70-ultra-roller.html",
+      "title": "MOVA S70 Ultra Roller 掃拖機器人｜32,000Pa強勁吸力・極薄機身｜MOVA 台灣 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-v70-%E6%8E%83%E5%9C%B0%E6%A9%9F%E4%B8%8A%E4%B8%8B%E6%B0%B4%E6%A8%A1%E7%B5%84",
+      "local_file": "products/mova-v70-4ab99184.html",
+      "title": "MOVA V70 掃地機上下水模組 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-x4-pro-filter-sca_clone_freegift",
+      "local_file": "products/mova-x4-pro-filter-sca_clone_freegift.html",
+      "title": "🎁 MOVA X4 Pro HEPA 濾芯 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-x4-pro-hepa-lu-xin-fu-ben-sca_clone_freegift",
+      "local_file": "products/mova-x4-pro-hepa-lu-xin-fu-ben-sca_clone_freegift.html",
+      "title": "🎁 洗地機濾芯HHP3(適用機種K30、X4 Pro) (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-x4-pro-hepa-lu-xin-fu-ben",
+      "local_file": "products/mova-x4-pro-hepa-lu-xin-fu-ben.html",
+      "title": "洗地機濾芯HHP3(適用機種K30、X4 Pro) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-v70-ultra-complete-x",
+      "local_file": "products/mova-v70-ultra-complete-x.html",
+      "title": "MOVA V70 Ultra Complete X 掃拖機器人｜40,000Pa吸力・雙極致外擴清潔｜MOVA 台灣 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-v70-ultra-complete-%E8%B1%AA%E8%8F%AF%E7%A6%AE%E5%8C%85",
+      "local_file": "products/mova-v70-ultra-complete-343ece72.html",
+      "title": "MOVA V70 Ultra Complete 豪華大禮包 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-x4-pro-m10-k20-cleaning-solution",
+      "local_file": "products/mova-x4-pro-m10-k20-cleaning-solution.html",
+      "title": "MOVA 洗地機地面清潔液 500ml (適用機種：X4 Pro、M10、K20 Pro) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-x4-pro-m10-k20-cleaning-solution-sca_clone_freegift",
+      "local_file": "products/mova-x4-pro-m10-k20-cleaning-solution-sca_clone_freegift.html",
+      "title": "🎁 MOVA 地面清潔液 (洗地機專屬) (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-x4-pro-wet-and-dry-vacuum",
+      "local_file": "products/mova-x4-pro-wet-and-dry-vacuum.html",
+      "title": "MOVA X4 Pro 熱水噴洗旗艦洗地機 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-x4-pro-m10-rolling-brush",
+      "local_file": "products/mova-x4-pro-m10-rolling-brush.html",
+      "title": "MOVA 洗地機滾刷HSBR(適用機種M10、M50、X4 Pro) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-ya-shua-shua-tou",
+      "local_file": "products/mova-ya-shua-shua-tou.html",
+      "title": "MOVA 美白牙刷刷頭 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z50-%E5%B0%8F%E5%9C%93%E6%8B%96-2%E5%85%A5",
+      "local_file": "products/mova-z50---2-0aefbcfc.html",
+      "title": "MOVA Z50 小圓拖 (2入) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z50-cleaning-solution",
+      "local_file": "products/mova-z50-cleaning-solution.html",
+      "title": "MOVA 地面清潔液 (Z50 Ultra 專用) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z50-%E5%B0%8F%E5%9C%93%E6%8B%96-2%E5%85%A5-%E5%89%AF%E6%9C%AC",
+      "local_file": "products/mova-z50---2-d1073855.html",
+      "title": "MOVA 掃拖機器人滾筒拖布 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z50-strainer",
+      "local_file": "products/mova-z50-strainer.html",
+      "title": "MOVA Z50 Ultra 濾網 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-ya-shua-shua-tou-sca_clone_freegift",
+      "local_file": "products/mova-ya-shua-shua-tou-sca_clone_freegift.html",
+      "title": "🎁 MOVA 美白牙刷刷頭 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z50-ultra-sca_clone_freegift",
+      "local_file": "products/mova-z50-ultra-sca_clone_freegift.html",
+      "title": "🎁 MOVA Z50 Ultra 清潔套裝組 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z50-ultra-%E5%85%A9%E5%B9%B4%E4%BB%BD%E8%80%97%E6%9D%90%E7%B5%84",
+      "local_file": "products/mova-z50-ultra-1c1ac8c9.html",
+      "title": "MOVA Z50 Ultra 兩年份耗材組 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z50-ultra-refurbished",
+      "local_file": "products/mova-z50-ultra-refurbished.html",
+      "title": "MOVA Z50 掃拖機 - 頂級吸力與智能清潔 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z50-ultra-robot-vacuum",
+      "local_file": "products/mova-z50-ultra-robot-vacuum.html",
+      "title": "MOVA Z50 Ultra 履帶式熱活水循環掃拖機 - 頂級吸力與智能清潔 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z50-ultra",
+      "local_file": "products/mova-z50-ultra.html",
+      "title": "MOVA Z50 Ultra 清潔套裝組 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z60-roller",
+      "local_file": "products/mova-z60-roller.html",
+      "title": "MOVA Z60 滾筒掃拖機 - 高效清潔利器 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z50u-%E6%8B%96%E5%B8%831%E5%85%A5",
+      "local_file": "products/mova-z50u--1-111fb06f.html",
+      "title": "MOVA Z50U 拖布(1入) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z60-%E6%B8%85%E6%BD%94%E7%A6%AE%E5%8C%85",
+      "local_file": "products/mova-z60-915e6ff9.html",
+      "title": "MOVA Z60 清潔禮包 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z60-roller-refurbished",
+      "local_file": "products/mova-z60-roller-refurbished.html",
+      "title": "MOVA Z60 滾筒掃拖機 - 高效清潔利器 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z70-%E6%8E%83%E5%9C%B0%E6%A9%9F%E4%B8%8A%E4%B8%8B%E6%B0%B4%E6%A8%A1%E7%B5%84%E9%A0%90%E8%B3%BC-%E9%A0%90%E8%A8%889%E6%9C%88%E4%B8%AD%E5%87%BA%E8%B2%A8-%E5%89%AF%E6%9C%AC",
+      "local_file": "products/mova-z70----9-dd0a288e.html",
+      "title": "MOVA Z70 掃地機上下水模組 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/nutripal-10-ultra",
+      "local_file": "products/nutripal-10-ultra.html",
+      "title": "MOVA NutriPal 10 Ultra 視訊智慧寵物自動餵食器 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z70-ultra-roller-complete",
+      "local_file": "products/mova-z70-ultra-roller-complete.html",
+      "title": "MOVA Z70 Ultra Roller Complete 掃拖機器人｜36,000Pa吸力・AI滾筒活水洗地｜MOVA 台灣 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z70-ultra-roller-complete-%E8%B1%AA%E8%8F%AF%E7%A6%AE%E5%8C%85",
+      "local_file": "products/mova-z70-ultra-roller-complete-9ec36761.html",
+      "title": "MOVA Z70 ULTRA ROLLER COMPLETE 豪華禮包 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/ova-z50u-2-piece-mop-set",
+      "local_file": "products/ova-z50u-2-piece-mop-set.html",
+      "title": "MOVA Z50U 拖布(2入組) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/t10-chu-man-yi",
+      "local_file": "products/t10-chu-man-yi.html",
+      "title": "MOVA T10 除蟎儀 - 輕鬆除蟎，保持家居清新 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/%E6%AF%8D%E8%A6%AA%E7%AF%80%E7%8D%BB%E7%A6%AE-%E5%89%AF%E6%9C%AC?page=2",
+      "local_file": "collections/page-82d6f693--page-2.html",
+      "title": "MOVA 熱門清潔家電｜最多人選擇的智慧清潔方案 – Page 2 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/all?page=12",
+      "local_file": "collections/all--page-12.html",
+      "title": "商品 – Page 12 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/corporate-news/mova-z50-ultra-vacuum-cleaner",
+      "local_file": "blogs/corporate-news/mova-z50-ultra-vacuum-cleaner.html",
+      "title": "MOVA Z50 Ultra 履帶式掃地機器人｜2025 掃地機霸王解析 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/corporate-news/mova-shines-at-ces-2025-with-multiple-ground-breaking-smart-home-technologies",
+      "local_file": "blogs/corporate-news/mova-shines-at-ces-2025-with-multiple-ground-breaking-smart-home-technologies.html",
+      "title": "MOVA CES 2025｜多項突破性智慧家居科技亮相 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/blogs/corporate-news/mova-k30-pro-mix%E5%95%86%E5%93%81%E8%B3%87%E8%A8%8A%E6%9B%B4%E6%AD%A3%E5%85%AC%E5%91%8A",
+      "local_file": "blogs/corporate-news/mova-k30-pro-mix-97953dc1.html",
+      "title": "MOVA K30 PRO MIX 商品資訊更正公告｜MOVA 台灣 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/all?page=3",
+      "local_file": "collections/all--page-3.html",
+      "title": "商品 – Page 3 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/all?page=2",
+      "local_file": "collections/all--page-2.html",
+      "title": "商品 – Page 2 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/mova-accessories?page=4",
+      "local_file": "collections/mova-accessories--page-4.html",
+      "title": "MOVA 原廠配件｜掃地機、洗地機耗材與配件 – Page 4 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/mova-accessories?page=3",
+      "local_file": "collections/mova-accessories--page-3.html",
+      "title": "MOVA 原廠配件｜掃地機、洗地機耗材與配件 – Page 3 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/pages/page/page-8bx43j23",
+      "local_file": "pages/page/page-8bx43j23.html",
+      "title": "page-8bx43j23 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/mova-accessories?page=2",
+      "local_file": "collections/mova-accessories--page-2.html",
+      "title": "MOVA 原廠配件｜掃地機、洗地機耗材與配件 – Page 2 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-e40-ultra-robot-vacuum",
+      "local_file": "products/mova-e40-ultra-robot-vacuum.html",
+      "title": "MOVA E40 自動掃拖機器人 - 強勁吸力及自動清洗 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/all?page=5",
+      "local_file": "collections/all--page-5.html",
+      "title": "商品 – Page 5 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/all?page=11",
+      "local_file": "collections/all--page-11.html",
+      "title": "商品 – Page 11 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-m10-k20-filter-sca_clone_freegift_69dca62f16684",
+      "local_file": "products/mova-m10-k20-filter-sca_clone_freegift_69dca62f16684.html",
+      "title": "🎁 MOVA 洗地機濾芯HHP1(適用機種K20、M10、M50) (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/all?page=10",
+      "local_file": "collections/all--page-10.html",
+      "title": "商品 – Page 10 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/all?page=4",
+      "local_file": "collections/all--page-4.html",
+      "title": "商品 – Page 4 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-p50-cleaning-kit-sca_clone_freegift",
+      "local_file": "products/mova-p50-cleaning-kit-sca_clone_freegift.html",
+      "title": "🎁 清潔套裝組(適用機種：P50、P70) (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-pet-food-desiccant-bags-sca_clone_freegift",
+      "local_file": "products/mova-pet-food-desiccant-bags-sca_clone_freegift.html",
+      "title": "🎁 MOVA 餵食器-糧筒乾燥劑(6入) (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-x4-pro-m10-k20-cleaning-solution-sca_clone_freegift_69dca62c44fc1",
+      "local_file": "products/mova-x4-pro-m10-k20-cleaning-solution-sca_clone_freegift_69dca62c44fc1.html",
+      "title": "🎁 MOVA 洗地機地面清潔液 500ml (適用型號：X4 Pro、M10、K20 Pro) (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-x4-pro-hepa-lu-xin-fu-ben-sca_clone_freegift_69dca61413719",
+      "local_file": "products/mova-x4-pro-hepa-lu-xin-fu-ben-sca_clone_freegift_69dca61413719.html",
+      "title": "🎁 洗地機濾芯HHP3(適用機種K30、X4 Pro) (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-ya-shua-shua-tou-sca_clone_freegift_69dca61d5238c",
+      "local_file": "products/mova-ya-shua-shua-tou-sca_clone_freegift_69dca61d5238c.html",
+      "title": "🎁 MOVA 美白牙刷刷頭 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-%E6%8E%83%E6%8B%96%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%9C%93%E7%9B%A4%E6%8B%96%E5%B8%834%E5%85%A5%E7%B5%84%E9%81%A9%E7%94%A8%E6%A9%9F%E7%A8%AEe40-p50-sca_clone_freegift",
+      "local_file": "products/mova--4-e40-p50-sca_clone_freegift-05d7a9cc.html",
+      "title": "🎁 MOVA 掃拖機器人圓盤拖布(4入組)(適用機種E40、P50) (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/all?page=9",
+      "local_file": "collections/all--page-9.html",
+      "title": "商品 – Page 9 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/all?page=6",
+      "local_file": "collections/all--page-6.html",
+      "title": "商品 – Page 6 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/all?page=8",
+      "local_file": "collections/all--page-8.html",
+      "title": "商品 – Page 8 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/collections/all?page=7",
+      "local_file": "collections/all--page-7.html",
+      "title": "商品 – Page 7 – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-p50-dust-bag-sca_clone_freegift",
+      "local_file": "products/mova-p50-dust-bag-sca_clone_freegift.html",
+      "title": "🎁 MOVA 掃拖機器人3.2L 集塵袋(3入組)(適用機種E40、P50、Z50、Z60、MOBIUS、S70) (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-v70-%E6%8E%83%E5%9C%B0%E6%A9%9F%E4%B8%8A%E4%B8%8B%E6%B0%B4%E6%A8%A1%E7%B5%84-sca_clone_freegift",
+      "local_file": "products/mova-v70---sca_clone_freegift-d7e0d775.html",
+      "title": "🎁 MOVA V70 掃地機上下水模組(預購，預計10月中出貨) (Discount) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-%E6%8E%83%E6%8B%96%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%9C%B0%E9%9D%A2%E6%B8%85%E6%BD%94%E6%B6%B2%E5%A5%97%E7%B5%84-200ml-sca_clone_freegift",
+      "local_file": "products/mova---200ml-sca_clone_freegift-03d9b933.html",
+      "title": "🎁 MOVA 掃拖機器人地面清潔液套組 200MLl(適用機種E40、P50) (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-qi-dian-shu-sca_clone_freegift_69dca624401e7",
+      "local_file": "products/mova-qi-dian-shu-sca_clone_freegift_69dca624401e7.html",
+      "title": "🎁 MOVA 氣墊梳 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-p50-ground-cleaning-solution-sca_clone_freegift",
+      "local_file": "products/mova-p50-ground-cleaning-solution-sca_clone_freegift.html",
+      "title": "🎁 MOVA 掃拖機器人地面清潔液 1L(適用機種E40、P50、Z50、Z60、MOBIUS、S70) (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z50-ultra-sca_clone_freegift_6a55aa292c87e",
+      "local_file": "products/mova-z50-ultra-sca_clone_freegift_6a55aa292c87e.html",
+      "title": "🎁 MOVA Z50 Ultra 清潔套裝組 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z70-%E6%8E%83%E5%9C%B0%E6%A9%9F%E4%B8%8A%E4%B8%8B%E6%B0%B4%E6%A8%A1%E7%B5%84%E9%A0%90%E8%B3%BC-%E9%A0%90%E8%A8%889%E6%9C%88%E4%B8%AD%E5%87%BA%E8%B2%A8-%E5%89%AF%E6%9C%AC-sca_clone_freegift",
+      "local_file": "products/mova-z70----9----sca_clone_freegift-89d77091.html",
+      "title": "🎁 MOVA Z70 掃地機上下水模組(預購，預計10月中出貨) (Discount) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-x4-pro-wet-and-dry-vacuum-sca_clone_freegift",
+      "local_file": "products/mova-x4-pro-wet-and-dry-vacuum-sca_clone_freegift.html",
+      "title": "🎁 MOVA X4 Pro 熱水噴洗旗艦洗地機 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z60-%E6%B8%85%E6%BD%94%E7%A6%AE%E5%8C%85-sca_clone_freegift",
+      "local_file": "products/mova-z60---sca_clone_freegift-504eb6b4.html",
+      "title": "🎁 MOVA Z60 清潔禮包 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z50-ultra-%E5%85%A9%E5%B9%B4%E4%BB%BD%E8%80%97%E6%9D%90%E7%B5%84-sca_clone_freegift",
+      "local_file": "products/mova-z50-ultra---sca_clone_freegift-4fd494b6.html",
+      "title": "🎁 MOVA Z50 Ultra 兩年份耗材組 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-z70-ultra-roller-complete-%E8%B1%AA%E8%8F%AF%E7%A6%AE%E5%8C%85-sca_clone_freegift",
+      "local_file": "products/mova-z70-ultra-roller-complete---sca_clone_freegift-11fe8c96.html",
+      "title": "🎁 MOVA Z70 ULTRA ROLLER COMPLETE 豪華禮包 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-fd10-pro-qi-zha-guo-sca_clone_freegift_6a190fc77abc8",
+      "local_file": "products/mova-fd10-pro-qi-zha-guo-sca_clone_freegift_6a190fc77abc8.html",
+      "title": "🎁 MOVA FD10 Pro 氣炸鍋 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/fresh-20-vision-sca_clone_freegift",
+      "local_file": "products/fresh-20-vision-sca_clone_freegift.html",
+      "title": "🎁 Fresh 20 Vision 牙菌斑偵測音波電動牙刷組 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-flip10-hairdryer-sca_clone_freegift_69dca775e833a",
+      "local_file": "products/mova-flip10-hairdryer-sca_clone_freegift_69dca775e833a.html",
+      "title": "🎁 MOVA Flip 10 百變魔術摺疊高速吹風機 (Discount) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-flip10-hairdryer-sca_clone_freegift_6a1fcab96d20f",
+      "local_file": "products/mova-flip10-hairdryer-sca_clone_freegift_6a1fcab96d20f.html",
+      "title": "🎁 MOVA Flip 10 百變魔術摺疊高速吹風機 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-e10-%E8%B2%93%E7%A0%82%E6%A9%9F%E6%B7%A8%E5%91%B3%E6%B6%B21%E5%85%A5-sca_clone_freegift",
+      "local_file": "products/mova-e10--1--sca_clone_freegift-3c1cbe04.html",
+      "title": "🎁 MOVA E10 貓砂機淨味液(1入) (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-k30-pro-mix-%E9%85%8D%E4%BB%B6%E7%B5%84-sca_clone_freegift",
+      "local_file": "products/mova-k30-pro-mix---sca_clone_freegift-852af57e.html",
+      "title": "🎁 MOVA K30 PRO MIX 配件組 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-v70-ultra-complete-%E8%B1%AA%E8%8F%AF%E7%A6%AE%E5%8C%85-sca_clone_freegift",
+      "local_file": "products/mova-v70-ultra-complete---sca_clone_freegift-3373a761.html",
+      "title": "🎁 MOVA V70 Ultra Complete 豪華禮包 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-s70-roller-%E6%B8%85%E6%BD%94%E7%A6%AE%E5%8C%85-sca_clone_freegift",
+      "local_file": "products/mova-s70-roller---sca_clone_freegift-9905cb1f.html",
+      "title": "🎁 MOVA S70 ROLLER 清潔禮包 (100% off) – MOVA TW"
+    },
+    {
+      "source_url": "https://tw.mova.tech/products/mova-l10-%E8%B2%93%E7%A0%82%E6%A9%9F%E9%9B%86%E4%BE%BF%E8%A2%8B1%E5%85%A5-sca_clone_freegift",
+      "local_file": "products/mova-l10--1--sca_clone_freegift-7aa808ed.html",
+      "title": "🎁 MOVA LR10 貓砂機集便袋(1入) (100% off) – MOVA TW"
+    }
+  ],
+  "unavailable_pages": {
+    "https://tw.mova.tech/pages/%E8%BF%BD%E8%B9%A4%40mova.tw": "HTTP Error 404: Not Found",
+    "https://tw.mova.tech/products/mova-p50-pro-ultra-robot-vacuum": "HTTP Error 404: Not Found",
+    "https://tw.mova.tech/products/mova-k30-pro-mix": "HTTP Error 404: Not Found"
+  },
+  "unavailable_assets": []
+}
